@@ -7,5 +7,5 @@ use Illuminate\Http\Request;
 
 class SsController extends Controller
 {
-    //
+    //asd
 }
